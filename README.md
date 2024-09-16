@@ -6,7 +6,7 @@ A tabela abaixo lista todos os recursos para os quais os laboratórios são ofer
 ## Laboratório
 
 | Laboratório                                                  | Enquete |
-| :----------------------------------------------------------- | :-----: |
+| :------------------------------------------------------------------------------------------- | :--------------------------: |
 | [IBM Business Automation Workflow](Workflow) | [Enquete BAW](https://www.surveymonkey.com/r/ba-dl-tech-jam-baw) |
 | [IBM Automation Decision Services](Decisions) | [Enquete ADS](https://www.surveymonkey.com/r/ba-dl-tech-jam-ads) |
 | [IBM watsonx Orchestrate](watsonx%20Orchestrate) | [Enquete wxO](https://www.surveymonkey.com/r/ba-dl-tech-jam-wxo) |
