@@ -8,6 +8,15 @@ Parte da plataforma IBM Cloud Pak® for Business Automation, o IBM Automation De
 
 - **[Gerenciar decisões e infundir aprendizado de máquina](Lab_Guide_Automation_Decision_Services_PT.pdf)**
 
-Este laboratório apresenta os principais conceitos do IBM Business Automation Decision Services. Ele inclui 3 exercícios que podem ser feitos individualmente. Neste laboratório, você aprende como modelar decisões de negócios, infundir inteligência adicionando um modelo preditivo, compartilhar e publicar serviços de decisão.
+Este laboratório apresenta os principais conceitos do IBM Business Automation Decisions Services. Ele inclui 3 exercícios que podem ser feitos individualmente. Neste laboratório, você aprende como modelar decisões de negócios, infundir inteligência adicionando um modelo preditivo, compartilhar e publicar serviços de decisão.
+
+### Exercício 1:
+- Gerenciar decisões de negócios com base em múltiplas fontes de dados.
+
+### Exercício 2:
+- Infundir inteligência nas decisões de negócios adicionando um modelo preditivo ao modelo de decisão do scorecard para fornecer o placar do cliente.
+
+### Exercício 3:
+- Colabore compartilhando projetos por meio de um repositório Git, crie e implante serviços de decisão do Decision Designer. Aprenda a publicar serviços de automação no Business Automation Studio.
 
 *Duração aproximada:* 3 horas
