@@ -128,7 +128,7 @@ Em caso de dúvidas, confirme os acessos com os instrutores.
 
 | Laboratórios                                                 | Link |
 | :----------------------------------------------------------- | :--------------------------: |
-| IBM Cloudpak Dashboard (open Business Automation Studio from there) | https://cpd-cp4ba.apps.66e82d0addc432ac13bf434d.ocp.techzone.ibm.com |
+| IBM Cloudpak Dashboard (open Business Automation Studio from there) | [https://cpd-cp4ba.apps.66e82d0addc432ac13bf434d.ocp.techzone.ibm.com](https://cpd-cp4ba.apps.66e83e687a59711899285125.ocp.techzone.ibm.com/) |
 | IBM Content Services ACCE | https://cpd-cp4ba.apps.66e82d0addc432ac13bf434d.ocp.techzone.ibm.com/cpe/acce/ |
 | IBM Content Services Admin Desktop | https://cpd-cp4ba.apps.66e82d0addc432ac13bf434d.ocp.techzone.ibm.com/icn/navigator/?desktop=admin |
 | IBM Content Services GraphQL | https://cpd-cp4ba.apps.66e82d0addc432ac13bf434d.ocp.techzone.ibm.com/content-services-graphql/ |
