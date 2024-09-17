@@ -19,4 +19,4 @@ A tabela abaixo lista todos os recursos para os quais os laboratórios são ofer
 | [IBM Business Automation Community](https://community.ibm.com/community/user/automation/home) | Comunidade de automação de negócios da IBM |
 | [watsonx Orchestrate Global Community](https://community.ibm.com/community/user/automation/communities/community-home?CommunityKey=3ad46381-9535-462e-85c9-568b21f4b067) | Comunidade Global do wxO |
 | [watsonx Orchestrate LATAM Community](https://community.ibm.com/community/user/communities/community-home?CommunityKey=293bedde-4d66-4dd4-8a56-01914a22d032) | Comunidade LATAM do wxO |
-| [watsonx Orchestrate LATAM Community]([https://www.ibm.com/business-automation]) | Business Automation |
+| [IBM Business Automation](https://www.ibm.com/business-automation) | Business Automation |
