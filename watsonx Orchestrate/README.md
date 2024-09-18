@@ -5,7 +5,7 @@ O IBM watsonx Orchestrate usa processamento de linguagem natural para extrair de
 
 ## Labs
 
-- **[Lab 1 - watsonx Orchestrate UAB](Lab%202%20-%20watsonx%20Orchestrate%20-%20UAB.pdf)**
+- **[Lab 1 - watsonx Orchestrate](Lab%201%20-%20Insurance%20Auto%20-%20watsonx%20Orchestrate%20-%201.2.pdf)**
 
 - **[Lab 2 - watsonx Orchestrate UAB](Lab%202%20-%20watsonx%20Orchestrate%20-%20UAB.pdf)**
 
