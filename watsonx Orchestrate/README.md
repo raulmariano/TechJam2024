@@ -9,6 +9,11 @@ O IBM watsonx Orchestrate usa processamento de linguagem natural para extrair de
 
 - **[Lab 2 - watsonx Orchestrate UAB](Lab%202%20-%20watsonx%20Orchestrate%20-%20UAB.pdf)**
 
+## Ambientes
+
+- IBM watsonX Orchestrate | https://dl.watson-orchestrate.ibm.com/ |
+- IBM RPA Web Console | https://us1app.rpa.ibm.com/#/pt-BR/account/login |
+
 ### Acesso Webapp
 Usuário: admin
 Senha: password123
